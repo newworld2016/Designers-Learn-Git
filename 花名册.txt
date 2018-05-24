@@ -233,7 +233,7 @@ yccphp		袁超
 haha            number two
 icaxaqiao       设计师
 isfooly         宇航员
-CHAAAA          学生
+CHAAAA          学生yi
 starttst        frontend ui designer
 Richor          designer 0.0
 lzx1022         0.0asdfsa
